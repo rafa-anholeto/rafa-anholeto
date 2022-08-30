@@ -1,7 +1,7 @@
 ### Hi there, my name is Rafael Anholeto
 
 
-- 🌱 Atualmente estudando Java
+- 🌱 Atualmente estudando Java, Spring Boot, Banco de dados, conteinerização com Docker e mensageria com RabbitMQ.
 
 <div align="center">
   <a href=https://github.com/rafa-anholeto">
